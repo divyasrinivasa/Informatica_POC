@@ -1,0 +1,58 @@
+[
+   {
+      "objectGuid": "jv7s1vQUSC1eK5WJusKc4u",
+      "objectName": "TGT_FF",
+      "objectType": "Connection",
+      "path": "/SYS",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": "TGT_FF",
+            "documentState": "COMPLETE"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [
+            "iO72eIjFTYMdfXvXB16wMV"
+         ],
+         "repoInfo": {
+            "repoHandle": "0108ES0B000000000005"
+         }
+      }
+   },
+   {
+      "objectGuid": "iO72eIjFTYMdfXvXB16wMV",
+      "objectName": "DESKTOP-OB8RNAL",
+      "objectType": "AgentGroup",
+      "path": "/SYS",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": null,
+            "documentState": "VALID"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "0108ES25000000000007"
+         }
+      }
+   }
+]

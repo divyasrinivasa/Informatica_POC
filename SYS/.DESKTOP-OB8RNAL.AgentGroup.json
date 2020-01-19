@@ -1,0 +1,29 @@
+[
+   {
+      "objectGuid": "iO72eIjFTYMdfXvXB16wMV",
+      "objectName": "DESKTOP-OB8RNAL",
+      "objectType": "AgentGroup",
+      "path": "/SYS",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": null,
+            "documentState": "VALID"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "0108ES25000000000007"
+         }
+      }
+   }
+]

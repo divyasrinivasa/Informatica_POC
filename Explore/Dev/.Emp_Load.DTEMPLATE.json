@@ -1,0 +1,86 @@
+[
+   {
+      "objectGuid": "19i3q1LEP3ke2M6ijTpny3",
+      "objectName": "Emp_Load",
+      "objectType": "DTEMPLATE",
+      "path": "/Explore/Dev",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": "",
+            "documentState": "VALID"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [
+            "jv7s1vQUSC1eK5WJusKc4u",
+            "0RaXYWbnaCWcAxdToRkhyK"
+         ],
+         "repoInfo": {
+            "repoHandle": "0108ES17000000000003"
+         }
+      }
+   },
+   {
+      "objectGuid": "jv7s1vQUSC1eK5WJusKc4u",
+      "objectName": "TGT_FF",
+      "objectType": "Connection",
+      "path": "/SYS",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": "TGT_FF",
+            "documentState": "COMPLETE"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "0108ES0B000000000005"
+         }
+      }
+   },
+   {
+      "objectGuid": "0RaXYWbnaCWcAxdToRkhyK",
+      "objectName": "SRC_FF",
+      "objectType": "Connection",
+      "path": "/SYS",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": "SRC_FF",
+            "documentState": "COMPLETE"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "0108ES0B000000000004"
+         }
+      }
+   }
+]

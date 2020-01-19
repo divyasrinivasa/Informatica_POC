@@ -1,0 +1,58 @@
+[
+   {
+      "objectGuid": "9chSV2JtZ6bieJyIBCUZwI",
+      "objectName": "TGT_Flatfile",
+      "objectType": "Connection",
+      "path": "/SYS",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": null,
+            "documentState": "COMPLETE"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [
+            "0MN7Juxs5iGg9FgIZcXUAg"
+         ],
+         "repoInfo": {
+            "repoHandle": "0108ES0B000000000007"
+         }
+      }
+   },
+   {
+      "objectGuid": "0MN7Juxs5iGg9FgIZcXUAg",
+      "objectName": "DESKTOP-FNJ1GHA",
+      "objectType": "AgentGroup",
+      "path": "/SYS",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": null,
+            "documentState": "VALID"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "0108ES25000000000002"
+         }
+      }
+   }
+]
