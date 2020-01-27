@@ -1,11 +1,10 @@
-cd C:\divya_git
-git clone https://github.com/divyasrinivasa/Informatica_POC.git
+cd C:\divya_git\Informatica_POC
 git checkout test
 git merge dev
 git diff-index --quiet HEAD || git commit -m "Merge file from Dev Branch to Test"
 git push origin test
 
-cd C:\divya_git\test
+cd C:\divya_git\test\Informatica_POC
 git checkout test
 git pull origin test
 cd C:\Informatica_POC\IICS Utility
