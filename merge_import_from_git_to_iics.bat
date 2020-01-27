@@ -1,8 +1,8 @@
 cd C:\divya_git\Informatica_POC
 git checkout test
-git merge dev
+git merge origin/dev
 git diff-index --quiet HEAD || git commit -m "Merge file from Dev Branch to Test"
-git push origin/test
+git push
 
 cd C:\divya_git\test\Informatica_POC
 git checkout test
