@@ -1,12 +1,10 @@
-#merge changes from dev branch to test branch
-cd C:\Informatica_POC\Informatica_POC
+cd C:\divya_git
 git checkout test
 git merge dev
 git diff-index --quiet HEAD || git commit -m "Merge file from Dev Branch to Test"
 git push origin test
 
-#import changes from git test branch to iics test env
-cd C:\Informatica_POC\Test\Informatica_POC
+cd C:\divya_git\test
 git checkout test
 git pull origin test
 cd C:\Informatica_POC\IICS Utility
