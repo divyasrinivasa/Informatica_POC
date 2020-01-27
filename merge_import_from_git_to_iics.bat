@@ -1,5 +1,5 @@
 cd C:\divya_git
-git clone 
+git clone https://github.com/divyasrinivasa/Informatica_POC.git
 git checkout test
 git merge dev
 git diff-index --quiet HEAD || git commit -m "Merge file from Dev Branch to Test"
